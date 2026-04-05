@@ -2,7 +2,7 @@
 
 ## かがみの孤城
 
-![かがみの孤城](./images/kagami-no-kojo.jpeg)
+<img src="./images/kagami-no-kojo.jpg" width=200>
 
 辻村 深月（つじむら みづき） - ポプラ社
 
@@ -45,7 +45,7 @@
 
 ## シャーロック・ホームズたちの冒険
 
-![シャーロック・ホームズたちの冒険](./images/sherlockhomes-s-adventure.jpg)
+<img src="./images/sherlockhomes-s-adventure.jpg" width=200>
 
 田中啓文（たなか　ひろふみ） - 創元推理文庫
 
