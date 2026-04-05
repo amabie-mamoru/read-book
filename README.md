@@ -2,7 +2,7 @@
 
 ## かがみの孤城
 
-<img src="./images/kagami-no-kojo.jpg" width=200>
+<img src="./images/kagami-no-kojo.jpeg" width=200>
 
 辻村 深月（つじむら みづき） - ポプラ社
 
